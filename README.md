@@ -8,3 +8,5 @@ A curated list of awesome search engines
 - [You Code](https://you.com/code) - Search for developers
 - [Duckduckgo](https://duckduckgo.com) - Privacy focused search
 - [Yep](https://yep.com) - By [ahrefs](https://ahrefs.com)
+- [Moka](https://mokasearch.com/); A search engine offering human-written perspectives
+
